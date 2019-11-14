@@ -1,1 +1,8 @@
 
+.gitignore
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/lab 5.iml
+.idea/misc.xml
+.idea/modules.xml
+venv/
